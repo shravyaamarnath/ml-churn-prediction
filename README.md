@@ -75,7 +75,7 @@ I set thresholds before building, not after. Standards set post-hoc drift toward
 
 Open the notebook in Colab and run all cells — data loads automatically.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shravyaamarnath/ai-learning/blob/main/portfolio/prototypes/waze-churn-prediction/waze_churn_prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Apr_waze_churn_prediction.ipynb)
 
 ---
 
